@@ -48,7 +48,8 @@ El proceso incluyó:
 
 No de forma inmediata.
 
-El precio al productor presenta variaciones frecuentes, mientras que el precio de las bodegas de Ibarra permanece estable durante varios meses y cambia de manera más escalonada.
+En los 48 meses comparables, entre agosto de 2022 y julio de 2026, el precio promedio al productor fue de aproximadamente USD 0,75/kg, mientras que en las bodegas de Ibarra fue de aproximadamente USD 1,35/kg. La diferencia promedio fue de USD 0,60/kg.
+Además, cuando comparo ambos precios en el mismo mes, la correlación es de aproximadamente 0,49, lo que indica una relación moderada, pero no una respuesta inmediata ni perfecta.
 
 Esto sugiere que la transmisión del precio entre ambos niveles de la cadena no es inmediata ni proporcional.
 
