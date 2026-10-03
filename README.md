@@ -1,4 +1,4 @@
-# EDA: Transmisión del precio del arroz entre productor e Ibarra
+# EDA: Transmisión del precio del arroz entre productor y clientes de Ibarra
 
 ## Problema de investigación
 
