@@ -1,4 +1,4 @@
-# EDA: Transmisión del precio del arroz entre productor y clientes de Ibarra
+# EDA: Transmisión del precio del arroz entre productor y clientes de Ibarra desde agosto de 2022 hasta julio de 2026
 
 ## Problema de investigación
 
